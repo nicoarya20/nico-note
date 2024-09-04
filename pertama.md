@@ -10,3 +10,5 @@ menjalankan project
 `yarn dev`
 `yarn dev -p 3000`
 
+__langkah selanjutnya__
+
